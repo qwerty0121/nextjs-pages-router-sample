@@ -1,0 +1,10 @@
+.linkNavs {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+.linkItem {
+  list-style-type: none;
+}
